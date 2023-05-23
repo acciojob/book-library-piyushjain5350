@@ -20,8 +20,7 @@
 }
 .book{
 	border-top:20px solid white;
-	padding:10px
-	background-color:rgb(46, 204, 113);
+	padding:10px;
 }
 .book img{
   display: block;
@@ -38,7 +37,7 @@
 	margin:0px;
 }
 .price p{
-	background-color:#2ecc71;
+	background-color:rgb(46, 204, 113);
 	display:block;
 	text-align:center;
 	margin:0px;
