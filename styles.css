@@ -36,9 +36,10 @@
 	text-transform:uppercase;
 	margin:0px;
 }
-.price p{
-	background-color:rgb(46, 204, 113);
+.price{
+	
 	display:block;
 	text-align:center;
 	margin:0px;
+	background-color:#2ecc71;
 }
